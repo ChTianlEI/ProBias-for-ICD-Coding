@@ -1,0 +1,123 @@
+Due to restrictions on the access to relevant data, one must submit an application through the official platform, complete ethics training, sign a data usage agreement, and obtain approval after review before gaining access. Herein, we only present the directory structure and the names of related files.
+
+model_data/
+├── 2024AB/
+│   └── META/
+│       └── MRCONSO.RRF
+├── D_ICD_DIAGNOSES.csv
+├── D_ICD_PROCEDURES.csv
+├── ICD9_descriptions
+├── label_desc/
+│   ├── enhanced_icd_mimic3_9.json
+│   ├── enhanced_icd_mimic4_10.json
+│   └── enhanced_icd_mimic4_9.json
+├── mimic-iv-note-deidentified-free-text-clinical-notes-2.2/
+│   ├── LICENSE.txt
+│   ├── SHA256SUMS.txt
+│   └── note/
+│       ├── discharge.csv
+│       ├── discharge.csv.gz
+│       ├── discharge_detail.csv
+│       ├── discharge_detail.csv.gz
+│       ├── radiology.csv
+│       ├── radiology.csv.gz
+│       ├── radiology_detail.csv
+│       └── radiology_detail.csv.gz
+├── mimic3/
+│   ├── dev_full.csv
+│   ├── ENHANCED_ICD_PROCEDURES.csv
+│   ├── mimic3_adj_matrix.pkl
+│   ├── mimic3_c_indices.pkl
+│   ├── mimic3_dev.json
+│   ├── mimic3_full_test.pkl
+│   ├── mimic3_ground_ind_common.pkl
+│   ├── mimic3_ground_ind_rare.pkl
+│   ├── mimic3_prob_matrix.npy
+│   ├── mimic3_test.json
+│   ├── mimic3_test_1hot.npz
+│   ├── mimic3_train.json
+│   ├── mimic3_train.pkl
+│   ├── mimic3_train_1hot.npz
+│   ├── mimic3_val.pkl
+│   ├── mimic3_val_1hot.npz
+│   ├── test_full.csv
+│   └── train_full.csv
+├── mimic4/
+│   ├── CHANGELOG.txt
+│   ├── LICENSE.txt
+│   ├── SHA256SUMS.txt
+│   ├── hosp/
+│   │   ├── admissions.csv.gz
+│   │   ├── diagnoses_icd.csv
+│   │   ├── diagnoses_icd.csv.gz
+│   │   ├── drgcodes.csv.gz
+│   │   ├── d_hcpcs.csv.gz
+│   │   ├── d_icd_diagnoses.csv
+│   │   ├── d_icd_diagnoses.csv.gz
+│   │   ├── d_icd_procedures.csv
+│   │   ├── d_icd_procedures.csv.gz
+│   │   ├── d_labitems.csv.gz
+│   │   ├── emar.csv.gz
+│   │   ├── emar_detail.csv.gz
+│   │   ├── hcpcsevents.csv.gz
+│   │   ├── labevents.csv.gz
+│   │   ├── microbiologyevents.csv.gz
+│   │   ├── omr.csv.gz
+│   │   ├── patients.csv.gz
+│   │   ├── pharmacy.csv.gz
+│   │   ├── poe.csv.gz
+│   │   ├── poe_detail.csv.gz
+│   │   ├── prescriptions.csv.gz
+│   │   ├── procedures_icd.csv
+│   │   ├── procedures_icd.csv.gz
+│   │   ├── provider.csv.gz
+│   │   ├── services.csv.gz
+│   │   └── transfers.csv.gz
+│   └── icu/
+│       ├── caregiver.csv.gz
+│       ├── chartevents.csv.gz
+│       ├── datetimeevents.csv.gz
+│       ├── d_items.csv.gz
+│       ├── icustays.csv.gz
+│       ├── ingredientevents.csv.gz
+│       ├── inputevents.csv.gz
+│       ├── outputevents.csv.gz
+│       └── procedureevents.csv.gz
+├── mimic4_icd10/
+│   ├── ALL_CODES_filtered.csv
+│   ├── dev_full.csv
+│   ├── d_icd_diagnoses.csv
+│   ├── d_icd_procedures.csv
+│   ├── icd_mimic4_icd10_def.pkl
+│   ├── icd_mimic4_icd10_desc.pkl
+│   ├── mimic4_icd10_adj_matrix.pkl
+│   ├── mimic4_icd10_c_indices.pkl
+│   ├── mimic4_icd10_ground_ind_common.pkl
+│   ├── mimic4_icd10_ground_ind_rare.pkl
+│   ├── mimic4_icd10_prob_matrix.npy
+│   ├── mimic4_icd10_test.pkl
+│   ├── mimic4_icd10_test_1hot.npz
+│   ├── mimic4_icd10_train.pkl
+│   ├── mimic4_icd10_train_1hot.npz
+│   ├── mimic4_icd10_val.pkl
+│   ├── mimic4_icd10_val_1hot.npz
+│   ├── test_full.csv
+│   └── train_full.csv
+└── mimic4_icd9/
+    ├── ALL_CODES_filtered.csv
+    ├── dev_full.csv
+    ├── icd_mimic4_icd9_def.pkl
+    ├── icd_mimic4_icd9_desc.pkl
+    ├── mimic4_icd9_adj_matrix.pkl
+    ├── mimic4_icd9_c_indices.pkl
+    ├── mimic4_icd9_ground_ind_common.pkl
+    ├── mimic4_icd9_ground_ind_rare.pkl
+    ├── mimic4_icd9_prob_matrix.npy
+    ├── mimic4_icd9_test.pkl
+    ├── mimic4_icd9_test_1hot.npz
+    ├── mimic4_icd9_train.pkl
+    ├── mimic4_icd9_train_1hot.npz
+    ├── mimic4_icd9_val_1hot.npz
+    ├── mimiciv_val.pkl
+    ├── test_full.csv
+    └── train_full.csv
