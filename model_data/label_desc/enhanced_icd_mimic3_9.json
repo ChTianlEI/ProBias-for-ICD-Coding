@@ -1,0 +1,20 @@
+[
+  {
+    "ICD9_CODE": "003.0",
+    "LONG_TITLE": "salmonella gastroenteritis",
+    "COMPREHENSIVE_DESC": "Salmonella gastroenteritis refers to an infection of the gastrointestinal tract caused by Salmonella bacteria, typically resulting in inflammation of the stomach and intestines. Clinically, it presents with symptoms such as diarrhea, abdominal cramps, fever, nausea, and vomiting. The condition is often self-limiting, but severe cases may require medical intervention. Primary indications include ingestion of contaminated food or water. Key risks include dehydration, electrolyte imbalance, and in severe cases, bacteremia.",
+    "COMORBIDITY_INFO": "Common complications include dehydration, electrolyte imbalances, and bacteremia. Dehydration results from excessive fluid loss due to diarrhea and vomiting, leading to decreased blood volume and potential shock. Electrolyte imbalances occur due to loss of sodium, potassium, and other ions, affecting cellular function. Bacteremia can occur if the bacteria enter the bloodstream, potentially leading to systemic infection. Monitoring priorities include fluid status, electrolyte levels, and signs of systemic infection to prevent complications and ensure timely intervention."
+  },
+  {
+    "ICD9_CODE": "003.1",
+    "LONG_TITLE": "salmonella septicemia",
+    "COMPREHENSIVE_DESC": "Salmonella septicemia is a severe systemic infection where Salmonella bacteria enter the bloodstream, leading to widespread inflammation and potential organ dysfunction. It often follows a primary infection such as gastroenteritis. Clinically, it presents with high fever, chills, hypotension, and signs of organ involvement. Primary indications include immunocompromised states or severe initial infections. Key risks include septic shock, multi-organ failure, and death if untreated.",
+    "COMORBIDITY_INFO": "Common complications include septic shock, acute kidney injury, and disseminated intravascular coagulation (DIC). Septic shock results from overwhelming infection leading to decreased blood pressure and organ perfusion. Acute kidney injury can occur due to hypoperfusion or direct bacterial toxin effects. DIC is a complex disorder of coagulation, leading to both bleeding and clotting issues. Monitoring priorities include vital signs, organ function tests, and coagulation profiles to detect and manage complications promptly."
+  },
+  {
+    "ICD9_CODE": "003.8",
+    "LONG_TITLE": "other specified salmonella infections",
+    "COMPREHENSIVE_DESC": "Other specified Salmonella infections encompass a range of conditions caused by Salmonella species that do not fit into more common categories like gastroenteritis or septicemia. These may include localized infections such as osteomyelitis, endocarditis, or abscesses. Clinical presentation varies depending on the site of infection. Primary indications include prior Salmonella exposure and underlying health conditions. Key risks include chronic infection and localized tissue damage.",
+    "COMORBIDITY_INFO": "Common complications include chronic infection, abscess formation, and potential spread to other body parts. Chronic infection can lead to prolonged symptoms and tissue damage. Abscess formation results from localized bacterial proliferation and immune response, potentially requiring surgical intervention. Monitoring priorities include imaging studies to assess infection spread, laboratory tests for inflammatory markers, and clinical evaluation of symptom progression."
+  }
+]

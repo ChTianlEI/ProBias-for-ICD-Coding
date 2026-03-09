@@ -1,0 +1,20 @@
+[
+  {
+    "ICD10_CODE": "00160J2",
+    "LONG_TITLE": "bypass cerebral ventricle to atrium with synthetic substitute, open approach",
+    "COMPREHENSIVE_DESC": "This procedure involves surgically creating a CSF diversion pathway from a cerebral ventricle to the right atrium using a synthetic shunt to treat obstructive hydrocephalus or normalize intracranial pressure. An open approach requires a craniotomy and thoracotomy/venous access for shunt placement. Indications include congenital hydrocephalus, post-hemorrhagic/obstructive CSF flow disorders, or failed prior shunts.",
+    "COMORBIDITY_INFO": "Common complications: Shunt infection (Staphylococcus epidermidis), atrial thrombosis. Pathophysiological links: Foreign body reaction to synthetic material promotes biofilm formation. catheter tip placement disrupts endothelial integrity, activating coagulation cascades."
+  },
+  {
+    "ICD10_CODE": "00160J6",
+    "LONG_TITLE": "bypass cerebral ventricle to peritoneal cavity with synthetic substitute, open approach",
+    "COMPREHENSIVE_DESC": "A ventriculoperitoneal (VP) shunt placement via open surgery to drain excess CSF into the peritoneal cavity for absorption. Used for communicating hydrocephalus, idiopathic intracranial hypertension, or pseudotumor cerebri. The open approach involves abdominal laparotomy and cranial incision for catheter tunneling.",
+    "COMORBIDITY_INFO": "Common complications: Shunt obstruction (glial/neoplastic cells), peritoneal adhesions. Pathophysiological links: Catheter tip irritation induces fibroblast proliferation. proteinaceous CSF debris accumulates in valve mechanisms."
+  },
+  {
+    "ICD10_CODE": "00163J4",
+    "LONG_TITLE": "bypass cerebral ventricle to pleural cavity with synthetic substitute, percutaneous approach",
+    "COMPREHENSIVE_DESC": "Percutaneous insertion of a ventriculopleural shunt to divert CSF into the pleural space, typically for patients with contraindications to VP/VA shunts. Performed under imaging guidance with trocar access. Indicated for recurrent shunt failures or limited abdominal/venous access.",
+    "COMORBIDITY_INFO": "Common complications: Pleural effusion (CSF hydrothorax), pneumothorax. Pathophysiological links: Impaired pleural fluid absorption overwhelms lymphatic drainage capacity. accidental lung puncture during catheter placement."
+  }
+]
