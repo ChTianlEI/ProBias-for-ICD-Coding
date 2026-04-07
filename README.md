@@ -55,6 +55,5 @@ The `model_core` directory contains:
 1. Open `model_core/config.py` and set `MODE = "test"` and `START_MODEL_FROM_CHECKPOINT = {checkpoint_path}`.
 2. Run `python main.py`.
 
-### reimplement
-Reimplement baselines with aligned gatertron encoder and chunk process. The codes in folder "re_implement_baselines" are adapted from the origin code repo:
-https://github.com/gecgomes/ICD_Coding_MSAM; https://github.com/machinelearning4health/CoRelation; https://github.com/MiuLab/PLM-ICD.
+### Reimplement
+Reimplement baselines. The codes in folder "re_implement_baselines" are adapted from the origin code repo. Please see the README documents in the corresponding folders.
